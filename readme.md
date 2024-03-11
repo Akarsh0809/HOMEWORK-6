@@ -1,5 +1,7 @@
-1. Trying to run workflow.
+1. Homework 6 Finished.
 
-2. Workflow running successfully.
+2. Trying to run workflow.
 
-3. Homework 6 is completed.
+3. Workflow running successfully.
+
+
